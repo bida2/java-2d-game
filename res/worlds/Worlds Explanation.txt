@@ -1,0 +1,3 @@
+world1.txt --> 20x20 grid world,biggest one,multiple zombies
+world2.txt --> 10x10 grid world,smallest world,only one zombie
+world3.txt --> 14x14 grid world,default world,one zombie for demonstrat
